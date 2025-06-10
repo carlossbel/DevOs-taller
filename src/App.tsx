@@ -62,7 +62,7 @@ function App() {
           type="text"
           value={inputSearch}
           onChange={(e) => setInputSearch(e.target.value)}
-          placeholder="Busca imágenes..."
+          placeholder="Busca imágenes :D, funciono? ..."
           className="search-input"
         />
         <button type="submit" className="search-button">Buscar</button>
